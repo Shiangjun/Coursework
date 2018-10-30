@@ -6,4 +6,10 @@ Overview:
 
 1. C_drone_checker involves memory allocation & mathematical concerns
 
-2. 
+2. Haskell contains all related practice
+
+3. Java contains a comprehensive object-oriented implementation
+
+4. MIPS inovlves interesting problems in fundmental programming
+
+5. 
