@@ -10,6 +10,10 @@ Overview:
 
 3. Java contains a comprehensive object-oriented implementation
 
-4. MIPS inovlves interesting problems in fundmental programming
+4. MATLAB_AStar_MazeGenerator contains a project which aimed to solve a random maze by applying A star algorithm (Insights are in it)
 
-5. 
+5. MATLAB_NN contains a project which aimed to use neural network for realizing number figure (PCA was applied)
+
+6. MIPS inovlves interesting problems in fundmental programming
+
+ 
