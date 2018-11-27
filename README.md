@@ -2,18 +2,42 @@
 
 This repository contains selected done coursework, with thoughts, extensions and discussions.
 
-Overview:
+## Semester 1 Year 3
 
-1. C_drone_checker involves memory allocation & mathematical concerns
+### Java_Algorithm_Correctness_and_Efficiency
 
-2. Haskell contains all related practice
+Would be updated soon.
 
-3. Java contains a comprehensive object-oriented implementation
+### Java_Software_Maintainence
 
-4. MATLAB_AStar_MazeGenerator contains a project which aimed to solve a random maze by applying A star algorithm (Insights are in it)
+contains a project which aimed to provide backend support for car monitoring
 
-5. MATLAB_NN contains a project which aimed to use neural network for realizing number figure (PCA was applied)
+## Semester 2 Year 2
 
-6. MIPS inovlves interesting problems in fundmental programming
+### MATLAB_AStar_MazeGenerator 
+
+contains a project which aimed to solve a random maze by applying A star algorithm (Insights are in it)
+
+### MATLAB_NN 
+
+contains a project which aimed to use neural network for realizing number figure (PCA was applied)
+
+### Java 
+
+contains a comprehensive object-oriented implementation
+
+### Haskell 
+
+contains all related practice
+
+## Semester 1 Year 2
+
+### C_drone_checker 
+
+involves memory allocation & mathematical concerns
+
+### MIPS 
+
+inovlves interesting problems in fundmental programming
 
  
