@@ -4,9 +4,13 @@ This repository contains selected done coursework, with thoughts, extensions and
 
 ## Semester 1 Year 3
 
+### C_OS
+
+contains implementation of sample scheduling policies.
+
 ### Java_Algorithm_Correctness_and_Efficiency
 
-Would be updated soon.
+contains implementation and analysis codes for Insertion Sort 
 
 ### Java_Software_Maintainence
 
