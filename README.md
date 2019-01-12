@@ -4,6 +4,10 @@ This repository contains selected done coursework, with thoughts, extensions and
 
 ## Semester 1 Year 3
 
+### Java_Software_Development
+
+contains two projects which is a game and an image editor respectively
+
 ### C_OS
 
 contains implementation of sample scheduling policies.
